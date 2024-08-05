@@ -1,0 +1,15 @@
+Tag Counts:
+
+Tag                 Count               
+tcp_1               5                   
+icmp_tag            1                   
+
+Port/Protocol Combination Counts:
+
+Port                Protocol            Counts              
+17344               tcp                 1                   
+0                   icmp                1                   
+58498               tcp                 1                   
+58050               tcp                 1                   
+46339               tcp                 1                   
+46982               tcp                 1                   

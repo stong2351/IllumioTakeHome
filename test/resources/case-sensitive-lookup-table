@@ -1,0 +1,7 @@
+dstport,protocol,tag
+0,icmp,icmp_tag
+17344,TCP,tCP_1
+58050,tcp,TCP_1
+58498,tCp,tcP_1
+46339,tcP,Tcp_1
+46982,Tcp,tCp_1

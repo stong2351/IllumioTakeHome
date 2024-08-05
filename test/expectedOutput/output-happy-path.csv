@@ -1,0 +1,46 @@
+Tag Counts:
+
+Tag                 Count               
+tcp_1               11                  
+icmp_tag            2                   
+tcp_3               8                   
+tcp_2               12                  
+udp_all             8                   
+
+Port/Protocol Combination Counts:
+
+Port                Protocol            Counts              
+0                   icmp                2                   
+17344               tcp                 1                   
+58050               tcp                 1                   
+58498               tcp                 1                   
+46339               tcp                 1                   
+46982               tcp                 1                   
+53768               tcp                 1                   
+35081               tcp                 1                   
+12044               tcp                 1                   
+48718               tcp                 1                   
+22222               tcp                 1                   
+46608               tcp                 1                   
+40725               udp                 1                   
+49941               tcp                 1                   
+22                  tcp                 4                   
+8090                tcp                 1                   
+51034               tcp                 1                   
+58010               tcp                 1                   
+44766               tcp                 1                   
+49760               tcp                 1                   
+9952                tcp                 1                   
+53415               tcp                 1                   
+57831               udp                 1                   
+51497               tcp                 1                   
+50026               udp                 1                   
+54635               tcp                 1                   
+46187               tcp                 1                   
+50286               tcp                 1                   
+56944               tcp                 1                   
+3636                tcp                 1                   
+41973               udp                 1                   
+46775               tcp                 1                   
+40568               tcp                 1                   
+123                 udp                 4                   

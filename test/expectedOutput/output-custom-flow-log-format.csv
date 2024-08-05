@@ -1,0 +1,13 @@
+Tag Counts:
+
+Tag                 Count               
+unassigned_tag      1                   
+tcp_1               1                   
+icmp_tag            1                   
+
+Port/Protocol Combination Counts:
+
+Port                Protocol            Counts              
+46608               tcp                 1                   
+0                   icmp                1                   
+40568               unassigned          1                   

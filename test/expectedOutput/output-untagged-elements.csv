@@ -1,0 +1,13 @@
+Tag Counts:
+
+Tag                 Count               
+untagged            5                   
+
+Port/Protocol Combination Counts:
+
+Port                Protocol            Counts              
+0                   igmp                1                   
+58050               tcp                 1                   
+58498               tcp                 1                   
+3636                tcp                 1                   
+22                  tcp                 1                   
